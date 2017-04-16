@@ -1,12 +1,12 @@
-## ApiServer
- - 服务于第三方的api网关框架；
+## MicroService
+ - 服务于第三方的微服务框架；
  - 完善中......
 
 
 ### Installation
 
 ```shell
-composer require "zhuyanhai/apiserver:dev-master" -vvv
+composer require "zhuyanhai/microservice:dev-master-ms" -vvv
 ```
 
 ### Usage
